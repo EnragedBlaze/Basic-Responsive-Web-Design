@@ -6,7 +6,6 @@ This project showcases a basic responsive web design. The layout adjusts seamles
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
