@@ -25,10 +25,10 @@ To view the project, simply open the `index.html` file in a web browser. You can
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/responsive-web-design.git
+git clone https://github.com/EnragedBlaze/Basic-Responsive-Web-Design.git
 
 # Navigate to the project directory
-cd responsive-web-design
+cd Basic-Responsive-Web-Design
 
 # Open index.html in your preferred web browser
 ```
